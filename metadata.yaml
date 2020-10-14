@@ -1,0 +1,38 @@
+_repo: A-Garden-of-Girls-Or-Famous-Schoolgirls-of-Former-Days_63354
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Concannon, Thomas, Mrs.
+    aliases:
+    - Walsh, Helena
+    - Concannon, Helena Walsh
+    - Concannon, Mrs. Thomas
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '52399'
+    url: http://www.gutenberg.org/2009/agents/52399
+    wikipedia: https://en.wikipedia.org/wiki/Helena_Concannon
+description: ''
+gutenberg_issued: '2020-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Education'
+- !lcsh 'Women -- Education -- History'
+- !lcc 'CT'
+- !lcsh 'Girls -- Biography'
+- GITenberg
+tableOfContents: 'Darlugdacha: A little schoolgirl of St. Brigid -- St. Elizabeth:
+  A little German schoolgirl of the Middle Ages -- Cecilia Gonzaga: A little Italian
+  schoolgirl of the Renaissance -- Margaret More: A little schoolgirl of Tudor England
+  -- Marie Jeanne d''Aumale: A little schoolgirl of Saint-Cyr -- Two schoolgirl Diarists
+  of the Eighteenth Century: Hélène Massalski, Paris. Anna Green Winslow, Boston --
+  Pamela at Bellechasse: The schooldays of Lady Edward Fitzgerald -- Marjorie Fleming:
+  Sir Walter Scott''s "Pet Marjorie".'
+title: A Garden of Girls; Or, Famous Schoolgirls of Former Days
+url: http://www.gutenberg.org/ebooks/63354
